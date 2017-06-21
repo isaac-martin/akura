@@ -16,7 +16,7 @@
 		<div class="col-md-5 top-layer hide-elements case-text-wrap">
 			<h1 class="casestudy-title hide-elements"><?php the_title(); ?></h1>
 			<h3 class="casestudy-location hide-elements"><?php the_field('location'); ?></h3>
-			<p class="case-text"><?php the_field('text'); ?></p>
+			<div class="case-text"><?php the_field('text'); ?></div>
 			<?php if( get_field('pdf') ): ?>
 			<a class="desktop" target="_blank" href="<?php the_field('pdf'); ?>" download>
 				<img src="<?php echo get_template_directory_uri(); ?>/img/pdf-dl.png" alt="Logo" class="pdf-dl hide-elements">
