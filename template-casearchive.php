@@ -7,7 +7,7 @@ $categories = get_categories(); ?>
 <div class="container text-wrapper">
 <h2 class="pad-15"><?php the_field('page_title'); ?></h2>
 
-<!--
+
 	<div class="filter-wrapper">
 		<ul id="category-menu">
 			<li class="all active">All</li>
@@ -16,7 +16,7 @@ $categories = get_categories(); ?>
 			 <?php } ?>
 		</ul>
 	</div>
--->
+
 <div class="ajax-wrapper">
 	<div id="post-content">
 
