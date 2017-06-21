@@ -1214,6 +1214,9 @@ p {
   -o-transition: all 0.7s;
   transition: all 0.7s;
 }
+.home .container {
+  padding-top: 121px;
+}
 header {
   width: 100%;
   position: fixed;

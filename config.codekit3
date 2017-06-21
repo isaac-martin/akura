@@ -919,12 +919,6 @@
 		"oAP": "\/pagination.php",
 		"oF": 0
 		},
-	"\/README.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/README.html",
-		"oF": 0
-		},
 	"\/README.md": {
 		"cS": 0,
 		"eF": 1,
@@ -1079,7 +1073,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 519402072,
-	"displayValue": "akura_theme",
+	"displayValue": "akura",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-confusedBaby"
 	},
