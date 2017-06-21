@@ -1214,7 +1214,7 @@ p {
   -o-transition: all 0.7s;
   transition: all 0.7s;
 }
-.home .container {
+.home-wrap {
   padding-top: 121px;
 }
 header {

@@ -1,5 +1,5 @@
 <?php /* Template Name: Home Page Template */ get_header(); ?>
-<div class="container">
+<div class="container home-wrap">
 	<h4 class="tagline vid-show">Design + Construct + Manage&nbsp;&nbsp;&nbsp;<span class="yellow">|&nbsp;&nbsp;&nbsp;Experience Saves</span></h4>
 	<video id="video">
 		<source src="<?php echo get_template_directory_uri(); ?>/vid/2/akuraWEBM.webm" type="video/webm"></source>
