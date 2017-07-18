@@ -1107,8 +1107,12 @@ h6 {
 h4 {
   font-size: 1.8em;
 }
-p {
+p,
+ul {
   font-size: 1.5em;
+}
+a {
+  background: #f1c400;
 }
 .stencil {
   font-family: 'geostencil', 'impact';
