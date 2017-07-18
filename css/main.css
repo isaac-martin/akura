@@ -1113,7 +1113,7 @@ p {
 p a {
   background: #f1c400;
 }
-ul {
+ul li {
   font-size: 1.5em;
 }
 .stencil {
